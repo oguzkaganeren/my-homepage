@@ -1,16 +1,4 @@
 
-## Installation
-
-Go to the directory where you have your Hugo site and run:
-
-```bash
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/huyb1991/hugo-lamp
-$ rm -rf hugo-lamp/.git
-```
-
-*For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.*
 
 
 
