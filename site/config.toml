@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "Oğuz Kağan EREN"
+baseurl = "/"
+theme = "../.."
+
+[params]
+  subtitle = "Web"
+  author = "Oğuz Kağan EREN"
+  logo = "/img/my-photo.jpg"
+  description = "Oğuz Kağan EREN Kişisel Sayfası"
+  paginate = 10
+
+  # SEO configs
+  seotitle = "Oğuz Kağan EREN"
+
+  # Social networks
+  email = "oguz.eren@ceng.deu.edu.tr"
+  github = "oguzkaganeren"
+  linkedin = "oguzkaganeren"
+
+
+
